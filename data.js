@@ -160,6 +160,10 @@ const pages = {
     like: "https://youtu.be/gWk7Zxs2T1g?si=9MxX-vnY18QIMNUZ",
     unlock: "https://www.mediafire.com/file/fwdeuzk1aijr0cq/Mod_Pack_50_Skin_By_Ngh%25C4%25A9alq_TV.zip/file"
   },
+  mod35skin0909: {
+    like: "https://youtu.be/Y_k8S7A44sU?si=lFdDmAkKF_-ReY1Y",
+    unlock: "https://www.mediafire.com/file/h9n5g7mxg6zqkm1/Pack_35_Skin_Li%25C3%25AAn_Qu%25C3%25A2n_Android_-_IOS.zip/file"
+  },
   
 };
 
