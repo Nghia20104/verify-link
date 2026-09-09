@@ -50,7 +50,7 @@ const pages = {
   },
   keymapios: {
     like: "https://youtu.be/KFnaxVcAlIA?si=keZ9xkJkmr4RA8Wd",
-    unlock: "https://ontops.link/91xoQoX"
+    unlock: "https://ontops.link/4Q7UhN2"
   },
   modmenuiosv2: {
     like: "https://youtu.be/KFnaxVcAlIA?si=keZ9xkJkmr4RA8Wd",
@@ -62,7 +62,7 @@ const pages = {
   },
   hackmenuios: {
     like: "https://youtu.be/KFnaxVcAlIA?si=keZ9xkJkmr4RA8Wd",
-    unlock: "https://storeipa.com/ZHduf3"
+    unlock: "https://linkx.me/Wv9E9i"
   },
   modmenuios: {
     like: "https://youtu.be/KFnaxVcAlIA?si=keZ9xkJkmr4RA8Wd",
